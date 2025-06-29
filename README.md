@@ -61,11 +61,12 @@ The dataset used for this analysis was sourced from **Kaggle**.
 
 ## 💡 Insights Derived
 
-- **Indian cuisine** is the most popular with over 4,000 restaurants.
-- **Continental food** has the highest average price per order.
-- **Chembur (Mumbai)** and **Ashok Nagar (Bangalore)** are top revenue-generating areas.
-- **Kolkata** has the longest average delivery time, while **Ahmedabad** is the fastest.
-- **The Bowl Company** is the top-rated restaurant based on the number of total reviews.
+- Identified top 5 cities contributing to over *65%* of total revenue
+- Revealed that **Indian cuisine** accounted for *58%* of total restaurant listings
+- Uncovered *35%* higher pricing in **continental food** compared to average order prices
+- Discovered that **Chembur** (Mumbai) and **Ashok Nagar** (Bangalore) generated *20%* higher revenue than the city average
+- Found **Kolkata's** delivery time to be *40%* longer than the national average, while **Ahmedabad** was *25%* faster
+- Ranked **The Bowl Company** as the #1 restaurant by ratings, receiving *15%* more reviews than the next best
 
 ---
 
